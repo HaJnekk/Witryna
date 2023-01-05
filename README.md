@@ -2,6 +2,6 @@
 ## Witryna na _zaliczenie przedmiotu_
 *Grupa nr ?* 
 -Maciej Krysiak - Kierownik
--Maciej Hain - Fragment
--Kacper Maślankowski - Fragment
--Damian Kamiński - Fragment
+-Maciej Hain - sekcja mapa
+-Kacper Maślankowski - sekcja formularz kontaktowy
+-Damian Kamiński - sekcja prezentacja autorów
