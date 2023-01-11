@@ -43,9 +43,6 @@ padding: 50px;
     color: white;
     background-color: #3D488A;
 }
-.container {
-    max-width: 100%;
-   height: auto;
-}
+
 .google-maps { width:100%; position: relative; padding-bottom: 75%; height: 30%; overflow: hidden; } 
 .google-maps iframe { position: absolute; top: 0; left: 0; width: 100% !important; height: 50% !important; }
