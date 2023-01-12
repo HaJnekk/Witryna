@@ -32,6 +32,28 @@ body{
     padding: 20px;
 }
 
+#Prezentacja{
+    background-color:rgb(188, 187, 185);
+    color: black;
+    padding: 10px;
+    margin: 0 auto;
+    }
+.opis .title{
+    color: black;
+    font-weight: bold;
+    text-align: left;
+    padding: 10px;
+
+}
+
+.opis .Description{
+    color: black;
+    font-size: 20px;
+    text-align: left;
+    padding: 10px;
+
+}
+
 #stopka{
 background-color: black;
 color: white;
